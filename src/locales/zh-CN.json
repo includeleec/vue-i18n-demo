@@ -1,0 +1,17 @@
+{
+    "menu": {
+      "en": "English",
+      "zh-CN": "中文",
+      "home": "首页",
+      "about": "关于",
+      "detail":"细节"
+    },
+    "main": {
+      "welcome": "你好 {company}!",
+      "new_message": "没消息 | 1条消息 | {count}条消息"
+    },
+    "about": {
+      "welcome": "欢迎来到关于!"
+    }
+  }
+  
